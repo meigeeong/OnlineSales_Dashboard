@@ -27,6 +27,7 @@
 ## 2. The finding revealed a total of 37K profit, with clothing (13.3K) as the highest profit compared to electronics (13.2K) and furniture(10.5k).
 ## 3. The sarees, handkerchiefs, and stoles were cloths sold in the highest quantity by subcategories. 
 ## 4. Meanwhile, Madhya Pradesh had the highest total profit compared to other cities.
+## 5. The total profits in Maharashtra states were 6963. Clothing has the highest profits, that was 3.4k, followed with furniture (2.4k) and electronics(1.2k). Saree, hankerchief, and stole  were three highest quantity sold in this town.
 
 
 
